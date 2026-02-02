@@ -21,3 +21,6 @@ The Band Name Generator takes the user's input for their city and pet name to ge
     What's the name of the city you grew up in? Boston
     What's your pet's name? Buddy
     Your band name could be: Boston Buddy
+    
+## 🌐 Live Demo
+https://amit7git.github.io/Python--Day-1-Band_Name_Generator/
