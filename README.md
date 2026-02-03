@@ -1,7 +1,7 @@
 # Day 1 – Band Name Generator 🎸
 
 Part of my **100 Days of Python Projects** challenge.  
-This project recreates the classic Python Band Name Generator using a **terminal-style web interface**.
+This project recreates the classic Python Band Name Generator using a terminal-style web interface.
 
 ---
 
@@ -11,10 +11,10 @@ The Band Name Generator asks the user for the name of the city they grew up in a
 ---
 
 ## 📚 What I Learned
-- Understanding **basic program flow** (input → process → output)
-- Translating **beginner Python logic into JavaScript**
-- Working with **string concatenation**
-- Handling **user input dynamically** in a terminal-style UI
+- Understanding basic program flow (input → process → output)
+- Translating beginner Python logic into JavaScript
+- Working with string concatenation
+- Handling user input dynamically in a terminal-style UI
 
 ---
 
@@ -23,10 +23,28 @@ The Band Name Generator asks the user for the name of the city they grew up in a
 2. User enters their pet’s name  
 3. The app combines both inputs and displays a generated band name  
 
-## Example format:
-    Welcome to the Band Name Generator. 
-    What's the name of the city you grew up in? Boston 
-    What's your pet's name? Buddy Your band name could be: Boston Buddy
+---
+
+## 💡 Code Highlights
+- Capturing user input step by step
+- Concatenating strings to form the band name
+- Displaying output dynamically in a terminal-style interface
+
+---
+
+## 🧪 Example
+        Welcome to the Band Name Generator.
+        What's the name of the city you grew up in? Boston
+        What's your pet's name? Buddy
+        Your band name could be: Boston Buddy
+
+
+---
+
+## ▶️ How to Run
+1. Open the project using the **Live Demo link**, or  
+2. Clone the repository and open `index.html` in a browser  
+3. Click **Run** and follow the on-screen prompts  
 
 ---
 
